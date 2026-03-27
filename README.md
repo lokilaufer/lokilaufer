@@ -5,7 +5,11 @@
 ![Демонстрация работы приложения](https://camo.githubusercontent.com/50ad1d87e6b3597f2dd9091094b6f0f5f99363f52c47f1f69a66388d8d50e6ac/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646e52704e5870345a7a563665573134614731354f5863356232677762476c684d5864334d446c3262334a7a59574e6f64485a694e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f51446a70494c366f4e43565a34717a4773372f67697068792e676966)
 
 </div>
-![](https://komarev.com/ghpvc/?username=lokilaufer)
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=lokilaufer&color=blueviolet&style=flat-square)
+
+</div>
 
 ##                                                                                    Привет всем!
 
