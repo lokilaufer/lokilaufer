@@ -33,6 +33,18 @@
 ![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge&logo=dns&logoColor=white)
 ![SOA](https://img.shields.io/badge/SOA-005571?style=for-the-badge&logo=soa&logoColor=white)
 
+## 📫 Контакты
+
+<div align="center">
+  
+📧 **Email**  
+[lokila667@gmail.com](mailto:lokila667@gmail.com)
+
+💬 **Telegram**  
+[@Dread_God666](https://t.me/Dread_God666)
+
+</div>
+
 
 <!--
 **lokilaufer/lokilaufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
