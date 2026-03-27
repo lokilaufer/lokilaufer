@@ -1,4 +1,17 @@
-## Hi there 👋
+## Всем привет!
+
+Меня зовут Елена Лопатина👋
+
+## 👨‍💻 Обо мне
+
+Fullstack-разработчик с опытом создания веб-сервисов на **Django** и **React**. Специализируюсь на разработке **REST API**, работе с базами данных и автоматизации процессов через **CI/CD**.
+
+**Технологии:**
+- **Backend:** Python, Django, REST API, SQL (PostgreSQL, MySQL)
+- **Frontend:** JavaScript, React, HTML/CSS
+- **DevOps:** Docker, Git, GitHub, GitLab, CI/CD
+
+Всегда открыта к новым проектам и сотрудничеству.
 ## 🛠️ Tech Stack
 
 ### Backend
