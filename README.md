@@ -33,15 +33,12 @@
 ![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge&logo=dns&logoColor=white)
 ![SOA](https://img.shields.io/badge/SOA-005571?style=for-the-badge&logo=soa&logoColor=white)
 
-## 📫 Контакты
+## 📫 Свяжитесь со мной
 
 <div align="center">
-  
-📧 **Email**  
-[lokila667@gmail.com](mailto:lokila667@gmail.com)
 
-💬 **Telegram**  
-[@Dread_God666](https://t.me/Dread_God666)
+[![Email](https://img.shields.io/badge/lokila667%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokila667@gmail.com)
+[![Telegram](https://img.shields.io/badge/@Dread_God666-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dread_God666)
 
 </div>
 
